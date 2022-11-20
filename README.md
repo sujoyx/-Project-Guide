@@ -17,7 +17,7 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 - [***Erd Abinschool Database With SQl***](https://github.com/sujoyx/Erd-Abinschool-Database-With-SQL)
 - [***Different types of SQL questions and answers***](https://github.com/sujoyx/Different-types-of-SQL-questions-and-answers)
 
-# PowerBi
+# Power Bi
 - [***Order Sale Profit Interactive Dashboard***](https://github.com/sujoyx/Order-Sale-Profit-Interactive-Dashboard)
 - [***Sales Retailer Overview***](https://github.com/sujoyx/Sales-Retailer-Overview)
 
